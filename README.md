@@ -4,6 +4,12 @@ This project develops and evaluates machine learning classification models to pr
 
 The project includes exploratory data analysis, preprocessing, model comparison, limited hyperparameter tuning, final model training, and external evaluation through a Kaggle competition submission.
 
+## Analysis Notebook
+
+The complete analysis is available in:
+
+[`notebooks/PredictingEVPurchases.ipynb`](notebooks/PredictingEVPurchases.ipynb)
+
 ## Project Objective
 
 The objective of this project is to predict `Will_Buy_EV`, a binary target indicating whether an individual is likely to purchase an electric vehicle.
