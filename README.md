@@ -1,5 +1,7 @@
 # Predicting Electric Vehicle Purchases
 
+**Course:** DSC 680 — Applied Data Science
+
 This project develops and evaluates machine learning classification models to predict whether an individual is likely to purchase an electric vehicle. The analysis uses demographic, financial, transportation, charging-access, and attitudinal characteristics from a Kaggle Playground competition dataset.
 
 The project includes exploratory data analysis, preprocessing, model comparison, limited hyperparameter tuning, final model training, and external evaluation through a Kaggle competition submission.
