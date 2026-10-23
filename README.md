@@ -189,7 +189,7 @@ EV-Purchase-Prediction/
 │   ├── LargestLogisticRegressionCoefficients.png
 │   └── ROC_CurvesForEvaluatedClassificationModels.png
 │
-├── notebooks/
+├── notebook/
 │   └── PredictingEVPurchases.ipynb
 │
 ├── .gitignore
