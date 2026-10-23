@@ -10,7 +10,7 @@ The project includes exploratory data analysis, preprocessing, model comparison,
 
 The complete analysis is available in:
 
-[`notebooks/PredictingEVPurchases.ipynb`](notebooks/PredictingEVPurchases.ipynb)
+[`notebook/PredictingEVPurchases.ipynb`](notebooks/PredictingEVPurchases.ipynb)
 
 ## Project Objective
 
