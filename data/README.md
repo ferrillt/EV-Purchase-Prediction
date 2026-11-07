@@ -1,6 +1,6 @@
 # Data
 
-This project uses data from the Kaggle Playground competition **Predicting Electric Vehicle Purchases**.
+This project uses data from [Predicting Electric Vehicle Purchases](https://www.kaggle.com/competitions/playground-series-s6e9), Kaggle Playground Series — Season 6, Episode 9.
 
 The competition data files are not included in this repository.
 
@@ -19,3 +19,4 @@ The project notebook expects the data directory to be located at:
 ```text
 EV-Purchase-Prediction/
 └── data/
+```
