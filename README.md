@@ -165,6 +165,8 @@ The close agreement between these scores indicates that the validation procedure
 
 Several limitations should be considered when interpreting the results.
 
+The competition uses synthetically generated data. The observed relationships and model performance should not be assumed to generalize to actual consumers without validation on real-world data.
+
 The relationships identified in this project are predictive rather than causal. Variables such as environmental concern, subsidy availability, income, and charging access may be related to other factors that are not represented in the dataset.
 
 The analysis is also limited to the variables included in the competition data. Other factors that could influence EV purchasing decisions, including vehicle price, electricity rates, gasoline prices, vehicle availability, household characteristics, and prior EV experience, are not included.
