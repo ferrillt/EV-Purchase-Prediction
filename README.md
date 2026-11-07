@@ -26,6 +26,7 @@ Because the target variable is imbalanced, ROC AUC is used as the primary evalua
 ## Dataset
 
 The project uses data from the Kaggle Playground competition [Predicting Electric Vehicle Purchases](https://www.kaggle.com/competitions/playground-series-s6e9).
+
 The training dataset contains:
 
 - **668,665 observations**
@@ -194,4 +195,4 @@ EV-Purchase-Prediction/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
-```text
+```
